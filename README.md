@@ -4,7 +4,7 @@ A Flutter-based Note-Taking App that allows users to create, read, update, and d
 
 ## Technologies Used
 - Frontend: Flutter (Dart)
-- State Management: SetState (or Provider if implemented)
+- State Management: SetState 
 - Date & Time Formatting: Intl package
 - UI & Animations: Material Design, Flutter SpinKit
 
