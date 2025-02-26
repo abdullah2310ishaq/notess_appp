@@ -1,0 +1,19 @@
+name: note_app
+description: A Flutter project for note-taking.
+version: 0.1.0
+homepage: https://github.com/yourusername/note_app
+repository: https://github.com/yourusername/note_app.git
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.17.0
+  flutter_spinkit: ^5.1.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/abc.jpg
